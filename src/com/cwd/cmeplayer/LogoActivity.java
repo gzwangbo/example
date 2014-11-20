@@ -35,9 +35,11 @@ public class LogoActivity extends Activity {
 
 	private Handler mHandler;
 	private ScanUtil manager;
-
+  
 	private ImageView gifView;// GIF动画控件
 	private ImageView logoView;// LOGO动画控件
+	
+	private int id;//测试分支
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
