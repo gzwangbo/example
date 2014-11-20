@@ -1,0 +1,34 @@
+# view AndroidManifest.xml #generated:27
+-keep class com.cwd.cmeplayer.LogoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:37
+-keep class com.cwd.cmeplayer.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:49
+-keep class com.cwd.cmeplayer.PlayerActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+-keep class com.cwd.cmeplayer.ScanActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:55
+-keep class com.cwd.cmeplayer.SettingActivity { <init>(...); }
+
+# view res/layout/activity_player.xml #generated:31
+# view res/layout/activity_player.xml #generated:58
+# view res/layout/activity_player.xml #generated:90
+# view res/layout/activity_player_landscape.xml #generated:8
+-keep class com.cwd.cmeplayer.custom.PushView { <init>(...); }
+
+# view res/layout/activity_player.xml #generated:101
+-keep class com.cwd.cmeplayer.custom.VisualizerView { <init>(...); }
+
+# view res/layout/activity_player.xml #generated:106
+# view res/layout/activity_player_landscape.xml #generated:37
+-keep class com.cwd.cmeplayer.lyric.LyricView { <init>(...); }
+
+# view AndroidManifest.xml #generated:61
+-keep class com.cwd.cmeplayer.service.MediaService { <init>(...); }
+
+# view res/layout/slidingmenu_main.xml #generated:2
+-keep class com.cwd.cmeplayer.slidingmenu.SlidingMenu { <init>(...); }
+

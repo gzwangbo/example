@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">C_Me音乐</string>
+    <string name="xml_activity_main_sliding_top_text">列表选择</string>
+    <string name="xml_activity_main_folder_back_text">返回上一级</string>
+    <string name="xml_activity_scan_title">扫描歌曲</string>
+    <string name="xml_activity_setting_title">设置</string>
+    <string name="xml_activity_setting_skin">更换背景</string>
+    <string name="xml_activity_setting_lyric">更换歌词高亮颜色</string>
+    <string name="xml_activity_setting_headset_title">耳机线控(不稳定，暂不允许更改)</string>
+    <string name="xml_activity_setting_headset_text">互换长按与双击行为</string>
+    <string name="xml_dialog_scan_title">扫描歌曲</string>
+    <string name="xml_dialog_scan_info">列表空空如也，先去找找歌曲吧！</string>
+    <string name="xml_dialog_scan_btn">  嗯。</string>
+    <string name="xml_dialog_menu_remove">从列表中移除</string>
+    <string name="xml_dialog_menu_delete">从文件中删除</string>
+    <string name="xml_dialog_menu_info">查看歌曲详情</string>
+    <string name="xml_dialog_delete_title">警告</string>
+    <string name="xml_dialog_delete_info">确认将文件从SD卡上删除？</string>
+    <string name="xml_dialog_delete_positive">确定</string>
+    <string name="xml_dialog_delete_negative">取消</string>
+    <string name="xml_dialog_info_title">歌曲信息</string>
+    <string name="xml_dialog_about_title">关于</string>
+    <string name="xml_dialog_about_info1">本软件是一款高仿天天动听的MP3音乐播放器，支持对本地音乐扫描、播放、及快进快退等操作，播放时可以查看歌曲详情，支持歌词的两种模式显示、均衡器效果、耳机线控、播放界面横竖屏切换，播放的视觉效果较为丰富，并且可以简单的个性化播放界面。注意歌词必须跟歌曲放在同一文件夹下，并且保持文件名相同。本软件的素材大部分取自天天动听，还有部分来自网络，某些相关素材有做修改。未想过商业盈利，应该木有什么关系吧。</string>
+    <string name="xml_dialog_about_info2">花费了一些时间完成，因某些原因不再从事开发行业，这是本人最后一个 Android 作品，现分享给大家供参考学习！本软件可能还存在一些测试未发现的问题，如各位感兴趣的可自行尝试修复！</string>
+    <string name="xml_dialog_about_info3">如想窃取本程序，请不要忘了做必要的修改。不希望被植入广告，要画个圈圈诅咒它。(╰_╯)#</string>
+    <string name="xml_dialog_about_info4">作者：陈维东</string>
+    <string name="xml_dialog_about_info5">完成日期：2013.09.01</string>
+    <string name="xml_dialog_about_info6">By CWD 2013 Open Source Project</string>
+    <string name="xml_dialog_btn_negative">关闭</string>
+
+</resources>
